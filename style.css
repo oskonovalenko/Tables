@@ -50,7 +50,7 @@ tfoot th {
     text-align: right;
 }
 thead, tfoot {
-    background: url(/img/leopae.jpg);
+    background: url(leopae.jpg);
     color: white;
     text-shadow: 1px 1px 1px black;
 }
@@ -68,7 +68,8 @@ tbody tr:nth-child(even) {
 }
 
 tbody tr {
-    background-image: url(/img/5552.png);
+    background-image: url();
+
 
 }
 
